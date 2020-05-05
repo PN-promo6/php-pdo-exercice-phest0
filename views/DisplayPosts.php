@@ -43,7 +43,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <h1 class="display-4">KEEP CALM & LOVE FOXES</h1>
+        <h1 class="display-4">KEEP CALM AND LOVE FOXES</h1>
         <blockquote class="blockquote text-center">
           <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <footer class="blockquote-footer">Maybe someone famous from <cite>Internet</cite></footer>
